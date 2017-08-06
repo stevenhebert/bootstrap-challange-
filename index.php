@@ -51,7 +51,7 @@
 							<li><a href="url1">link3</a></li>
 							<li><a href="url1">link4</a></li>
 						</ul>
-					</div><!--/.nav-collapse -->
+					</div>
 				</div>
 
 			</nav>
@@ -64,8 +64,7 @@
 					<h1>Hello, World!</h1>
 					<p>This is a simple heo unit, a simple jumbotron-style component for calling extra attention to featured
 						content or information.</p>
-					<a href="buttonToNoWhere">Learn More</a>
-				</div>
+					<a class="btn btn-primary" href="#" role="button">Learn more »</a></div>
 			</section>
 
 			<section>
