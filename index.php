@@ -31,9 +31,9 @@
 	<body>
 		<header>
 			<div class="container-fluid">
-
 			</div>
 		</header>
+
 		<main>
 			<section>
 				<div class="container">
@@ -43,6 +43,7 @@
 					<a href="buttonToNoWhere">Learn More</a>
 				</div>
 			</section>
+
 			<section>
 				<div class="container">
 					<img class="largeXedOverImage" src="imagesDir" alt="XImage"/>
@@ -60,33 +61,30 @@
 						pulvinar, ex urna vulputate enim, dictum malesuada quam felis et arcu. Duis ornare tellus in risus
 						placerat tincidunt. Cras ultricies scelerisque justo non mollis.
 					</p>
-
 				</div>
-
 			</section>
+
 			<section>
 				<div class="row">
 					<div class="col-lg-3>">
-
+						<img src="imageDir1" alt="sumPic"
 					</div>
 					<div class="col-lg-3>">
-
+						<img src="imageDir2" alt="sumPic"
 					</div>
 					<div class="col-lg-3>">
-
+						<img src="imageDir3" alt="sumPic"
 					</div>
 					<div class="col-lg-3>">
-
+						<img src="imageDir4" alt="sumPic"
 					</div>
-
 				</div>
-
 			</section>
-
 		</main>
+
+
 		<footer>
 			<sfooter>
-
 			</sfooter>
 		</footer>
 	</body>
