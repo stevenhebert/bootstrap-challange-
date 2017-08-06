@@ -36,14 +36,53 @@
 		</header>
 		<main>
 			<section>
+				<div class="container">
+					<h1>Hello, World!</h1>
+					<p>This is a simple heo unit, a simple jumbotron-style component for calling extra attention to featured
+						content or information.</p>
+					<a href="buttonToNoWhere">Learn More</a>
+				</div>
+			</section>
+			<section>
+				<div class="container">
+					<img class="largeXedOverImage" src="imagesDir" alt="XImage"/>
+					<p>Aliquam nunc leo, porttitor sed risus sit amet, cursus porta lacus. Mauris lobortis turpis dictum
+						lacinia
+						sodales. Praesent aliquet, ipsum sit amet ornare semper, diam diam euismod arcu, ac pharetra nulla
+						felis
+						ac odio. In tellus felis, ultrices vitae mi non, ultrices egestas metus. Vestibulum hendrerit lacus
+						non
+						fringilla sagittis. Pellentesque scelerisque metus quis libero condimentum tempus. Etiam a metus
+						ultricies mi accumsan euismod volutpat in eros. Cras tincidunt elit libero, eget aliquet purus gravida
+						sed. Nulla luctus leo quis diam porta maximus. Sed sed nulla et ligula tincidunt ultricies ac vel est.
+						Sed ac vehicula lacus. Proin vitae sapien sed nibh venenatis porta. Donec ultricies, lacus eget
+						dignissim
+						pulvinar, ex urna vulputate enim, dictum malesuada quam felis et arcu. Duis ornare tellus in risus
+						placerat tincidunt. Cras ultricies scelerisque justo non mollis.
+					</p>
+
+				</div>
 
 			</section>
 			<section>
+				<div class="row">
+					<div class="col-lg-3>">
+
+					</div>
+					<div class="col-lg-3>">
+
+					</div>
+					<div class="col-lg-3>">
+
+					</div>
+					<div class="col-lg-3>">
+
+					</div>
+
+				</div>
 
 			</section>
-			<section>
 
-			</section>
 		</main>
 		<footer>
 			<sfooter>
