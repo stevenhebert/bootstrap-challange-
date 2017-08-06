@@ -32,6 +32,7 @@
 		<header>
 			<nav class="navbar navbar-default navbar-static-top">
 				<div class="container">
+
 					<div class="navbar-header">
 						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
 								  aria-expanded="false" aria-controls="navbar">
@@ -42,6 +43,7 @@
 						</button>
 						<a class="navbar-brand" href="#">title</a>
 					</div>
+
 					<div id="navbar" class="navbar-collapse collapse">
 						<ul class="nav navbar-nav navbar-right">
 							<li><a href="url1">link1</a></li>
@@ -51,7 +53,9 @@
 						</ul>
 					</div><!--/.nav-collapse -->
 				</div>
+
 			</nav>
+
 		</header>
 
 		<main>
@@ -87,16 +91,35 @@
 			<section>
 				<div class="row">
 					<div class="col-lg-3>">
-						<img src="imageDir1" alt="sumPic"
+						<img src="images/food1.jpg" alt="food1">
+						<p>Spicy jalapeno bacon ipsum dolor amet alcatra sirloin ad beef kielbasa exercitation pig. Et dolore
+							spare ribs tongue, filet mignon kielbasa irure ham magna eiusmod mollit corned beef officia id
+							tail. Beef ribs incididunt reprehenderit jowl sint shankle. Shank sirloin labore dolore ball tip.
+							Veniam fugiat cupim reprehenderit eu occaecat.</p>
 					</div>
 					<div class="col-lg-3>">
-						<img src="imageDir2" alt="sumPic"
+						<img src="images/food12.jpg" alt="food2">
+						<p>Alcatra culpa shank, sausage turducken kevin aliqua in nulla. Bresaola corned beef reprehenderit
+							commodo occaecat ipsum ad ball tip ground round aute pancetta boudin sint. Deserunt beef ribs in
+							aliqua tempor venison beef ut bresaola, jerky laborum ipsum shank. Incididunt qui adipisicing, ham
+							bacon minim pastrami bresaola labore boudin doner landjaeger tempor swine.</p>
 					</div>
 					<div class="col-lg-3>">
-						<img src="imageDir3" alt="sumPic"
+						<img src="images/food3.jpg" alt="food3">
+						<p>Ham tri-tip anim incididunt brisket nostrud, ad tail adipisicing excepteur capicola swine. Sirloin
+							ut fatback andouille biltong. Laboris velit in, sunt ad turducken incididunt ribeye pastrami. Minim
+							ham hock aute turkey drumstick fatback in commodo culpa quis corned beef officia est. Meatball
+							flank brisket, shank reprehenderit irure tempor. Corned beef rump irure meatball laborum nostrud
+							venison, pork loin tenderloin exercitation.</p>
 					</div>
 					<div class="col-lg-3>">
-						<img src="imageDir4" alt="sumPic"
+						<img src="images/food4.jpg" alt="food4">
+						<p>Tongue drumstick cow prosciutto velit voluptate landjaeger magna bacon enim est deserunt. Anim qui
+							fatback tail chuck ribeye duis flank. Pork chop exercitation deserunt venison ham hock, pastrami
+							bresaola. Adipisicing prosciutto id pork chop picanha filet mignon alcatra sint enim reprehenderit
+							nisi aute tail bresaola. Eiusmod swine proident, pig voluptate dolor aliqua veniam do aliquip
+							brisket pork chop enim dolore chicken. Fugiat hamburger tongue, ut duis mollit pork loin
+							reprehenderit.</p>
 					</div>
 				</div>
 			</section>
