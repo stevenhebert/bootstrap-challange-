@@ -6,27 +6,26 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
 		<!-- Latest compiled and minified CSS -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-				integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		<link rel="stylesheet"
+				href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+				integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+				crossorigin="anonymous">
 
 		<!-- Optional theme -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-				integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-
-		<!-- Latest compiled and minified JavaScript -->
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
-				  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
-				  crossorigin="anonymous"></script>
+		<link rel="stylesheet"
+				href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
+				integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp"
+				crossorigin="anonymous">
 
 		<!-- Font Awesome -->
-		<link type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
-				rel="stylesheet"/>
+		<link rel="stylesheet"
+				href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+				type="text/css">
 
 		<!-- Bootstrap -->
-		<link href="css/bootstrap.min.css" rel="stylesheet">
-
-		<!-- My Stylesheet -->
-		<link rel="styles" href="css/styles.css" type="text/css"/>
+		<link rel="stylesheet"
+				href="css/styles.css"
+				type="text/css">
 
 		<title>Stevens Bootstrap Challenge</title>
 
@@ -91,49 +90,60 @@
 			</section>
 
 			<section>
-				<div class="row">
-					<div class="col-xs-3>">
-						<img src="images/food1.jpg" alt="food1">
-						<p>Spicy jalapeno bacon ipsum dolor amet alcatra sirloin ad beef kielbasa exercitation pig. Et dolore
-							spare ribs tongue, filet mignon kielbasa irure ham magna eiusmod mollit corned beef officia id
-							tail. Beef ribs incididunt reprehenderit jowl sint shankle. Shank sirloin labore dolore ball tip.
-							Veniam fugiat cupim reprehenderit eu occaecat.</p>
-					</div>
-					<div class="col-xs-3>">
-						<img src="images/food2.jpg" alt="food2">
-						<p>Alcatra culpa shank, sausage turducken kevin aliqua in nulla. Bresaola corned beef reprehenderit
-							commodo occaecat ipsum ad ball tip ground round aute pancetta boudin sint. Deserunt beef ribs in
-							aliqua tempor venison beef ut bresaola, jerky laborum ipsum shank. Incididunt qui adipisicing, ham
-							bacon minim pastrami bresaola labore boudin doner landjaeger tempor swine.</p>
-					</div>
-					<div class="col-xs-3>">
-						<img src="images/food3.jpg" alt="food3">
-						<p>Ham tri-tip anim incididunt brisket nostrud, ad tail adipisicing excepteur capicola swine. Sirloin
-							ut fatback andouille biltong. Laboris velit in, sunt ad turducken incididunt ribeye pastrami. Minim
-							ham hock aute turkey drumstick fatback in commodo culpa quis corned beef officia est. Meatball
-							flank brisket, shank reprehenderit irure tempor. Corned beef rump irure meatball laborum nostrud
-							venison, pork loin tenderloin exercitation.</p>
-					</div>
-					<div class="col-xs-3>">
-						<img src="images/food4.jpg" alt="food4">
-						<p>Tongue drumstick cow prosciutto velit voluptate landjaeger magna bacon enim est deserunt. Anim qui
-							fatback tail chuck ribeye duis flank. Pork chop exercitation deserunt venison ham hock, pastrami
-							bresaola. Adipisicing prosciutto id pork chop picanha filet mignon alcatra sint enim reprehenderit
-							nisi aute tail bresaola. Eiusmod swine proident, pig voluptate dolor aliqua veniam do aliquip
-							brisket pork chop enim dolore chicken. Fugiat hamburger tongue, ut duis mollit pork loin
-							reprehenderit.</p>
+				<div class="container">
+
+					<div class="row">
+						<div class="col-xs-3>">
+							<img src="images/food1.jpg" alt="food1">
+							<p>Spicy jalapeno bacon ipsum dolor amet alcatra sirloin ad beef kielbasa exercitation pig. Et
+								dolore
+								spare ribs tongue, filet mignon kielbasa irure ham magna eiusmod mollit corned beef officia id
+								tail. Beef ribs incididunt reprehenderit jowl sint shankle. Shank sirloin labore dolore ball
+								tip.
+								Veniam fugiat cupim reprehenderit eu occaecat.</p>
+						</div>
+						<div class="col-xs-3>">
+							<img src="images/food2.jpg" alt="food2">
+							<p>Alcatra culpa shank, sausage turducken kevin aliqua in nulla. Bresaola corned beef reprehenderit
+								commodo occaecat ipsum ad ball tip ground round aute pancetta boudin sint. Deserunt beef ribs in
+								aliqua tempor venison beef ut bresaola, jerky laborum ipsum shank. Incididunt qui adipisicing,
+								ham
+								bacon minim pastrami bresaola labore boudin doner landjaeger tempor swine.</p>
+						</div>
+						<div class="col-xs-3>">
+							<img src="images/food3.jpg" alt="food3">
+							<p>Ham tri-tip anim incididunt brisket nostrud, ad tail adipisicing excepteur capicola swine.
+								Sirloin
+								ut fatback andouille biltong. Laboris velit in, sunt ad turducken incididunt ribeye pastrami.
+								Minim
+								ham hock aute turkey drumstick fatback in commodo culpa quis corned beef officia est. Meatball
+								flank brisket, shank reprehenderit irure tempor. Corned beef rump irure meatball laborum nostrud
+								venison, pork loin tenderloin exercitation.</p>
+						</div>
+						<div class="col-xs-3>">
+							<img src="images/food4.jpg" alt="food4">
+							<p>Tongue drumstick cow prosciutto velit voluptate landjaeger magna bacon enim est deserunt. Anim
+								qui
+								fatback tail chuck ribeye duis flank. Pork chop exercitation deserunt venison ham hock, pastrami
+								bresaola. Adipisicing prosciutto id pork chop picanha filet mignon alcatra sint enim
+								reprehenderit
+								nisi aute tail bresaola. Eiusmod swine proident, pig voluptate dolor aliqua veniam do aliquip
+								brisket pork chop enim dolore chicken. Fugiat hamburger tongue, ut duis mollit pork loin
+								reprehenderit.</p>
+						</div>
 					</div>
 				</div>
 			</section>
 		</main>
 
-
 		<footer>
-			<div class="sfooter">
-				<div class="sfooter-content">Does your lorem ipsum text long for something a little meatier? Give our generator a try… it’s tasty!
+			<div class="container">
+					<p>Does your lorem ipsum text long for something a little meatier? Give our
+						generator a try… it’s tasty!</p>
 				</div>
 			</div>
 		</footer>
+
 	</body>
 </html>
 
