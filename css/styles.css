@@ -104,19 +104,10 @@ section .container + .p {
 
 .navbar {
 	position: relative;
-	min-height: @navbar-height;
-
-	/* Ensure a navbar always shows (e . g ., without a . navbar-brand in collapsed mode) */
-	margin-bottom: @navbar-margin-bottom;
-	border: 1px solid transparent;
-
-	/* Prevent floats from breaking the navbar */
-	&: extend(.clearfix all);
-
-@media (min-width: @grid-float-breakpoint) {
-	border-radius:
-
-	@navbar-border-radius ;
-}
-
+	min-height: 20px;
+	padding: 19px;
+	margin-bottom: 20px;
+	background-color: #f5f5f5;
+	border: 1px solid 3 e3e3e3;
+	border-radius: 4px;
 }
