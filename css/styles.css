@@ -6,8 +6,8 @@
 **/
 
 .container {
-	margin: 20px auto;
-	padding: 0 2rem;
+	margin: 40px auto;
+	padding: 0 4rem;
 }
 
 .clearfix {
@@ -75,7 +75,7 @@ img {
 	width: 240px;
 	height: 240px;
 	border-radius: 180px;
-
+	vertical-align: middle;
 }
 
 /* Center align the text within the columns */
@@ -90,8 +90,8 @@ img {
 	margin-right: 10px;
 	margin-left: 10px;
 	padding: 8px;
-	background-color: #f5f5f5;
-	border: 1px solid 3 #e3e3e3;
+	background-color: #e0e0e0;
+	border: 1px solid 3px black;
 	border-radius: 12px;
 }
 
@@ -114,7 +114,24 @@ section .container + .p {
 	min-height: 20px;
 	padding: 19px;
 	margin-bottom: 20px;
-	background-color: #f5f5f5;
-	border: 1px solid 3 #e3e3e3;
-	border-radius: 4px;
+	background-color: #e0e0e0;
+	border: 1px solid 3px black;
+	border-radius: 12px;
+}
+
+.jumbotron {
+	margin: 10px;
+	padding: 8px;
+	background-color: #e0e0e0;
+	border: 1px solid 3px black;
+	border-radius: 12px;
+}
+
+.btn {
+	margin-bottom: 15px;
+}
+
+.middle {
+	background-color: grey;
+	width: 100%;
 }

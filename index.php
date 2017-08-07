@@ -67,31 +67,39 @@
 		<main>
 			<section>
 				<div class="container">
-					<h1>Oink, Bacon!</h1>
-					<p>Chuck in laborum, nulla ex t-bone cupim leberkas. Est laboris porchetta turkey aute mollit enim minim
-						ham hock occaecat sirloin cupim. Quis nulla sausage, rump flank laboris in nisi andouille. Ullamco
-						short loin swine, flank fugiat ham venison ut meatloaf beef.</p>
-					<a class="btn btn-primary" href="https://bootcamp-coders.cnm.edu/~shebert2/" role="button">Learn more
-						»</a></div>
+					<div class="jumbotron">
+						<h1>Oink, Bacon!</h1>
+						<p>Chuck in laborum, nulla ex t-bone cupim leberkas. Est laboris porchetta turkey aute mollit enim
+							minim
+							ham hock occaecat sirloin cupim. Quis nulla sausage, rump flank laboris in nisi andouille. Ullamco
+							short loin swine, flank fugiat ham venison ut meatloaf beef.</p>
+						<a class="btn btn-primary" href="https://bootcamp-coders.cnm.edu/~shebert2/" role="button">Learn more
+							»</a>
+					</div>
+				</div>
 			</section>
 
 			<section>
 				<div class="container">
-					<img class="notfood" src="images/food5.jpg" alt="food5">
-					<p>Aliquam nunc leo, porttitor sed risus sit amet, cursus porta lacus. Mauris lobortis turpis dictum
-						lacinia
-						sodales. Praesent aliquet, ipsum sit amet ornare semper, diam diam euismod arcu, ac pharetra nulla
-						felis
-						ac odio. In tellus felis, ultrices vitae mi non, ultrices egestas metus. Vestibulum hendrerit lacus
-						non
-						fringilla sagittis. Pellentesque scelerisque metus quis libero condimentum tempus. Etiam a metus
-						ultricies mi accumsan euismod volutpat in eros. Cras tincidunt elit libero, eget aliquet purus gravida
-						sed. Nulla luctus leo quis diam porta maximus. Sed sed nulla et ligula tincidunt ultricies ac vel est.
-						Sed ac vehicula lacus. Proin vitae sapien sed nibh venenatis porta. Donec ultricies, lacus eget
-						dignissim
-						pulvinar, ex urna vulputate enim, dictum malesuada quam felis et arcu. Duis ornare tellus in risus
-						placerat tincidunt. Cras ultricies scelerisque justo non mollis.
-					</p>
+					<div class="middle">
+						<img class="notfood" src="images/food5.jpg" alt="food5">
+						<p>Aliquam nunc leo, porttitor sed risus sit amet, cursus porta lacus. Mauris lobortis turpis dictum
+							lacinia
+							sodales. Praesent aliquet, ipsum sit amet ornare semper, diam diam euismod arcu, ac pharetra nulla
+							felis
+							ac odio. In tellus felis, ultrices vitae mi non, ultrices egestas metus. Vestibulum hendrerit lacus
+							non
+							fringilla sagittis. Pellentesque scelerisque metus quis libero condimentum tempus. Etiam a metus
+							ultricies mi accumsan euismod volutpat in eros. Cras tincidunt elit libero, eget aliquet purus
+							gravida
+							sed. Nulla luctus leo quis diam porta maximus. Sed sed nulla et ligula tincidunt ultricies ac vel
+							est.
+							Sed ac vehicula lacus. Proin vitae sapien sed nibh venenatis porta. Donec ultricies, lacus eget
+							dignissim
+							pulvinar, ex urna vulputate enim, dictum malesuada quam felis et arcu. Duis ornare tellus in risus
+							placerat tincidunt. Cras ultricies scelerisque justo non mollis.
+						</p>
+					</div>
 				</div>
 			</section>
 
