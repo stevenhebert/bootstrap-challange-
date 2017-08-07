@@ -71,8 +71,7 @@
 						<h1>Oink, Bacon!</h1>
 						<p>Chuck in laborum, nulla ex t-bone cupim leberkas. Est laboris porchetta turkey aute mollit enim
 							minim
-							ham hock occaecat sirloin cupim. Quis nulla sausage, rump flank laboris in nisi andouille. Ullamco
-							short loin swine, flank fugiat ham venison ut meatloaf beef.</p>
+							ham hock occaecat sirloin cupim.</p>
 						<a class="btn btn-primary" href="https://bootcamp-coders.cnm.edu/~shebert2/" role="button">Learn more
 							»</a>
 					</div>
@@ -81,9 +80,8 @@
 
 			<section>
 				<div class="container">
-					<div class="middle">
 						<img class="notfood" src="images/food5.jpg" alt="food5">
-						<p>Aliquam nunc leo, porttitor sed risus sit amet, cursus porta lacus. Mauris lobortis turpis dictum
+						<p class="text-justify lead">Aliquam nunc leo, porttitor sed risus sit amet, cursus porta lacus. Mauris lobortis turpis dictum
 							lacinia
 							sodales. Praesent aliquet, ipsum sit amet ornare semper, diam diam euismod arcu, ac pharetra nulla
 							felis
@@ -131,8 +129,7 @@
 								ut fatback andouille biltong. Laboris velit in, sunt ad turducken incididunt ribeye pastrami.
 								Minim
 								ham hock aute turkey drumstick fatback in commodo culpa quis corned beef officia est. Meatball
-								flank brisket, shank reprehenderit irure tempor. Corned beef rump irure meatball laborum nostrud
-								venison, pork loin tenderloin exercitation.</p>
+								flank brisket, shank reprehenderit irure tempor.</p>
 						</div>
 						<div class="col-md-3">
 							<img class="food" src="images/food4.jpg" alt="food4">
@@ -141,9 +138,7 @@
 								fatback tail chuck ribeye duis flank. Pork chop exercitation deserunt venison ham hock, pastrami
 								bresaola. Adipisicing prosciutto id pork chop picanha filet mignon alcatra sint enim
 								reprehenderit
-								nisi aute tail bresaola. Eiusmod swine proident, pig voluptate dolor aliqua veniam do aliquip
-								brisket pork chop enim dolore chicken. Fugiat hamburger tongue, ut duis mollit pork loin
-								reprehenderit.</p>
+								nisi aute tail bresaola.</p>
 						</div>
 					</div>
 				</div>

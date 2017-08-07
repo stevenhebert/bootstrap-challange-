@@ -46,7 +46,6 @@
 html {
 	position: relative;
 	display: flex;
-
 	min-height: 100%;
 }
 
@@ -71,11 +70,16 @@ footer {
 *
 **/
 
-img {
+.food {
 	width: 240px;
 	height: 240px;
 	border-radius: 180px;
 	vertical-align: middle;
+}
+
+.center-block {
+	width: 240px;
+	height: 240px;
 }
 
 /* Center align the text within the columns */
@@ -85,10 +89,6 @@ img {
 }
 
 .col-md-3 p {
-	margin-top: 10px;
-	margin-bottom: 10px;
-	margin-right: 10px;
-	margin-left: 10px;
 	padding: 8px;
 	background-color: #e0e0e0;
 	border: 1px solid 3px black;
@@ -98,12 +98,14 @@ img {
 /* Pull section2 image left and text right, align */
 
 .notfood {
+
 	margin: 20px;
 	float: left;
+	width: 240px;
+	height: 240px;
 }
 
 section .container + .p {
-	padding-top: 10px;
 	float: right;
 }
 
@@ -131,7 +133,7 @@ section .container + .p {
 	margin-bottom: 15px;
 }
 
-.middle {
+.text-justify lead {
 	background-color: grey;
-	width: 100%;
+	vertical-align: text-bottom;
 }
