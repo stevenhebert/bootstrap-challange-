@@ -1,6 +1,7 @@
 /**
 * CSS Stylesheet
-* Steven Hebert <shebert2@cnm.edu>
+* Authored by rlewis37
+* Modified by Steven Hebert <shebert2@cnm.edu>
 *
 **/
 
@@ -14,7 +15,8 @@
 }
 
 /**
-*create a responsive container
+* Make container responsive
+*
 **/
 
 @media only screen and (min-width: 1200px) {
@@ -29,13 +31,9 @@
 	.container { width: 750px; }
 }
 
-/*****************************************************
-* Flexbox Sticky Footer
-* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
-******************************************************/
-
 /**
-*corrects IE min-height bug
+* Internet Explorer minimum height bug fix
+*
 **/
 
 html {
@@ -45,6 +43,12 @@ html {
 body {
 	width: 100%;
 }
+
+/**
+* Flexbox Sticky Footer
+* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+*
+**/
 
 .sfooter {
 	display: flex;
@@ -61,3 +65,12 @@ footer {
 	color: white;
 }
 
+/**
+* My custom CSS
+*
+**/
+
+img {
+	width: 20%;
+	height: auto;
+}

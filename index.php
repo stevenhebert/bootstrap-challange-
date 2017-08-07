@@ -48,10 +48,10 @@
 
 					<div id="navbar" class="navbar-collapse collapse">
 						<ul class="nav navbar-nav navbar-right">
-							<li><a href="url1">link1</a></li>
-							<li><a href="url1">link2</a></li>
-							<li><a href="url1">link3</a></li>
-							<li><a href="url1">link4</a></li>
+							<li><a href="https://bootcamp-coders.cnm.edu/~shebert2/">link1</a></li>
+							<li><a href="https://bootcamp-coders.cnm.edu/~shebert2/">link2</a></li>
+							<li><a href="https://bootcamp-coders.cnm.edu/~shebert2/">link3</a></li>
+							<li><a href="https://bootcamp-coders.cnm.edu/~shebert2/">link4</a></li>
 						</ul>
 					</div>
 				</div>
@@ -63,15 +63,17 @@
 		<main>
 			<section>
 				<div class="container">
-					<h1>Hello, World!</h1>
-					<p>This is a simple heo unit, a simple jumbotron-style component for calling extra attention to featured
-						content or information.</p>
-					<a class="btn btn-primary" href="#" role="button">Learn more »</a></div>
+					<h1>Oink, Bacon!</h1>
+					<p>Chuck in laborum, nulla ex t-bone cupim leberkas. Est laboris porchetta turkey aute mollit enim minim
+						ham hock occaecat sirloin cupim. Quis nulla sausage, rump flank laboris in nisi andouille. Ullamco
+						short loin swine, flank fugiat ham venison ut meatloaf beef.</p>
+					<a class="btn btn-primary" href="https://bootcamp-coders.cnm.edu/~shebert2/" role="button">Learn more
+						»</a></div>
 			</section>
 
 			<section>
 				<div class="container">
-					<img class="largeXedOverImage" src="imagesDir" alt="XImage"/>
+					<img src="images/food5.jpg" alt="food5"/>
 					<p>Aliquam nunc leo, porttitor sed risus sit amet, cursus porta lacus. Mauris lobortis turpis dictum
 						lacinia
 						sodales. Praesent aliquet, ipsum sit amet ornare semper, diam diam euismod arcu, ac pharetra nulla
@@ -138,9 +140,9 @@
 
 		<footer>
 			<div class="container">
-					<p>Does your lorem ipsum text long for something a little meatier? Give our
-						generator a try… it’s tasty!</p>
-				</div>
+				<p>Does your lorem ipsum text long for something a little meatier? Give our
+					generator a try… it’s tasty!</p>
+			</div>
 			</div>
 		</footer>
 
