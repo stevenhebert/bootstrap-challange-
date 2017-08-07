@@ -36,9 +36,9 @@
 	</head>
 	<body>
 		<header>
-			<nav class="navbar navbar-default navbar-static-top">
-				<div class="container-fluid">
 
+			<div class="container">
+				<nav class="navbar navbar-default navbar-static-top">
 					<div class="navbar-header">
 						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
 								  aria-expanded="false" aria-controls="navbar">
@@ -58,9 +58,9 @@
 							<li><a href="https://bootcamp-coders.cnm.edu/~shebert2/">link4</a></li>
 						</ul>
 					</div>
-				</div>
 
-			</nav>
+				</nav>
+			</div>
 
 		</header>
 
