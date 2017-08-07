@@ -71,11 +71,12 @@ footer {
 **/
 
 img {
-	width: 20%;
+	width: 240px;
 	height: auto;
+
 }
 
-/* Center align the text within the three columns below the carousel */
+/* Center align the text within the columns */
 .col-md-3 {
 	margin-bottom: 20px;
 	text-align: center;
@@ -86,3 +87,14 @@ img {
 	margin-left: 10px;
 }
 
+/* Pull section2 image left and text right, align */
+
+.notfood {
+	margin: 20px;
+	float: left;
+}
+
+section .container + .p {
+	padding-top: 10px;
+	float: right;
+}

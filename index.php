@@ -73,7 +73,7 @@
 
 			<section>
 				<div class="container">
-					<img src="images/food5.jpg" alt="food5">
+					<img class="notfood" src="images/food5.jpg" alt="food5">
 					<p>Aliquam nunc leo, porttitor sed risus sit amet, cursus porta lacus. Mauris lobortis turpis dictum
 						lacinia
 						sodales. Praesent aliquet, ipsum sit amet ornare semper, diam diam euismod arcu, ac pharetra nulla
