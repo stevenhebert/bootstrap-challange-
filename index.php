@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
-
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
 		<!-- Latest compiled and minified CSS -->
@@ -24,6 +24,9 @@
 
 		<!-- Bootstrap -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
+
+		<!-- My Stylesheet -->
+		<link rel="styles" href="css/styles.css" type="text/css"/>
 
 		<title>Stevens Bootstrap Challenge</title>
 
@@ -89,21 +92,21 @@
 
 			<section>
 				<div class="row">
-					<div class="col-lg-3>">
+					<div class="col-xs-3>">
 						<img src="images/food1.jpg" alt="food1">
 						<p>Spicy jalapeno bacon ipsum dolor amet alcatra sirloin ad beef kielbasa exercitation pig. Et dolore
 							spare ribs tongue, filet mignon kielbasa irure ham magna eiusmod mollit corned beef officia id
 							tail. Beef ribs incididunt reprehenderit jowl sint shankle. Shank sirloin labore dolore ball tip.
 							Veniam fugiat cupim reprehenderit eu occaecat.</p>
 					</div>
-					<div class="col-lg-3>">
-						<img src="images/food12.jpg" alt="food2">
+					<div class="col-xs-3>">
+						<img src="images/food2.jpg" alt="food2">
 						<p>Alcatra culpa shank, sausage turducken kevin aliqua in nulla. Bresaola corned beef reprehenderit
 							commodo occaecat ipsum ad ball tip ground round aute pancetta boudin sint. Deserunt beef ribs in
 							aliqua tempor venison beef ut bresaola, jerky laborum ipsum shank. Incididunt qui adipisicing, ham
 							bacon minim pastrami bresaola labore boudin doner landjaeger tempor swine.</p>
 					</div>
-					<div class="col-lg-3>">
+					<div class="col-xs-3>">
 						<img src="images/food3.jpg" alt="food3">
 						<p>Ham tri-tip anim incididunt brisket nostrud, ad tail adipisicing excepteur capicola swine. Sirloin
 							ut fatback andouille biltong. Laboris velit in, sunt ad turducken incididunt ribeye pastrami. Minim
@@ -111,7 +114,7 @@
 							flank brisket, shank reprehenderit irure tempor. Corned beef rump irure meatball laborum nostrud
 							venison, pork loin tenderloin exercitation.</p>
 					</div>
-					<div class="col-lg-3>">
+					<div class="col-xs-3>">
 						<img src="images/food4.jpg" alt="food4">
 						<p>Tongue drumstick cow prosciutto velit voluptate landjaeger magna bacon enim est deserunt. Anim qui
 							fatback tail chuck ribeye duis flank. Pork chop exercitation deserunt venison ham hock, pastrami
@@ -126,8 +129,10 @@
 
 
 		<footer>
-			<sfooter>
-			</sfooter>
+			<div class="sfooter">
+				<div class="sfooter-content">Does your lorem ipsum text long for something a little meatier? Give our generator a try… it’s tasty!
+				</div>
+			</div>
 		</footer>
 	</body>
 </html>
