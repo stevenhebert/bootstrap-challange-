@@ -32,23 +32,31 @@
 }
 
 /**
-* Internet Explorer minimum height bug fix
-*
-**/
-
-html {
-	display: flex;
-}
-
-body {
-	width: 100%;
-}
-
-/**
 * Flexbox Sticky Footer
 * http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
 *
 **/
+
+html {
+	position: relative;
+	display: flex;
+
+	min-height: 100%;
+}
+body {
+	/* Margin bottom by footer height */
+	width: 100%;
+	margin-bottom: 60px;
+}
+footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	/* Set the fixed height of the footer here */
+	height: 60px;
+	background-color: black;
+	color: white;
+}
 
 .sfooter {
 	display: flex;
@@ -60,10 +68,6 @@ body {
 	flex: 1 0 auto;
 }
 
-footer {
-	background-color: black;
-	color: white;
-}
 
 /**
 * My CSS

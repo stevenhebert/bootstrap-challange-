@@ -143,7 +143,6 @@
 				<p>Does your lorem ipsum text long for something a little meatier? Give our
 					generator a try… it’s tasty!</p>
 			</div>
-			</div>
 		</footer>
 
 	</body>
