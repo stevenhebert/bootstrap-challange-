@@ -120,7 +120,7 @@
 								commodo occaecat ipsum ad ball tip ground round aute pancetta boudin sint. Deserunt beef ribs in
 								aliqua tempor venison beef ut bresaola, jerky laborum ipsum shank. Incididunt qui adipisicing,
 								ham
-								bacon minim pastrami bresaola labore boudin doner landjaeger tempor swine.</p>
+								bacon minim pastrami bresaola.</p>
 						</div>
 						<div class="col-md-3">
 							<img class="food" src="images/food3.jpg" alt="food3">
