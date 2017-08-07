@@ -22,6 +22,10 @@
 				href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
 				type="text/css">
 
+		<script src="http://code.jquery.com/jquery-3.2.1.min.js"
+				  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+				  crossorigin="anonymous"></script>
+
 		<!-- Bootstrap -->
 		<link rel="stylesheet"
 				href="css/styles.css"
